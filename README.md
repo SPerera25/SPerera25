@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm S Perera 👋
 
-<!--
-**SPerera25/SPerera25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science Student | C++ • Python • HTML • Java
 
-Here are some ideas to get you started:
+🌱 Currently learning and building projects as part of my Computer Science degree  
+💻 Passionate about programming, problem-solving, and improving my skills  
+🚀 Exploring software development, algorithms, and modern coding practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Skills
+- **Languages:** C++, Python, Java, HTML  
+- **Interests:** Software Development, Web Development, Problem Solving, CS Fundamentals  
+
+---
+
+## 📫 Contact
+Feel free to reach out or connect!
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=SPerera25&show_icons=true&theme=tokyonight)
