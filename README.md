@@ -15,7 +15,7 @@
 ---
 
 ## 📫 Contact
-Feel free to reach out or connect!
+You can reach me through GitHub or LinkedIn.
 
 ---
 
