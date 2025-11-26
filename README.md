@@ -20,4 +20,5 @@ You can reach me through GitHub or LinkedIn.
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SPerera25&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=SPerera25&show_icons=true&theme=tokyonight)
+
