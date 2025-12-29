@@ -1,6 +1,6 @@
 # Hi, I'm S Perera 👋
 
-### 🎓 Computer Science Student | C++ • Python • HTML • Java
+### 🎓 Computer Science Student | C++ • Python • HTML • Java • Rust
 
 🌱 Currently learning and building projects as part of my Computer Science degree  
 💻 Passionate about programming, problem-solving, and improving my skills  
