@@ -9,7 +9,7 @@
 ---
 
 ## 🔧 Technologies & Skills
-- **Languages:** C++, Python, Java, HTML  
+- **Languages:** C++, Python, Java, HTML, Rust  
 - **Interests:** Software Development, Web Development, Problem Solving, CS Fundamentals  
 
 ---
